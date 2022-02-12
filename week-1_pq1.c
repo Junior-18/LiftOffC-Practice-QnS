@@ -1,4 +1,4 @@
-/*3. Write a C program to check whether a number
+/*1. Write a C program to check whether a number
 is negative, positive or zero.*/
 
 #include<stdio.h>
