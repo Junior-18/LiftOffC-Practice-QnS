@@ -1,4 +1,4 @@
-/*6. Write a C program to check whether an alphabet
+/*5. Write a C program to check whether an alphabet
 is vowel or consonant using switch case.*/
 
 #include<stdio.h>
