@@ -1,4 +1,4 @@
-/*4. Write a C program to check whether
+/*2. Write a C program to check whether
 a year is leap year or not.*/
 
 #include<stdio.h>
