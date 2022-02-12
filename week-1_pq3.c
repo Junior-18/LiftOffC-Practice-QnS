@@ -1,4 +1,4 @@
-/*5. Write a C program to check whether a number
+/*4. Write a C program to check whether a number
 is positive, negative or zero switching using
 switch case.*/
 
