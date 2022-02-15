@@ -12,17 +12,9 @@ int main(){
     switch (alphabet)
     {
     case 'a':
-        printf("%c is a vowel", alphabet);
-        break;
     case 'e':
-        printf("%c is a vowel", alphabet);
-        break;
     case 'i':
-        printf("%c is a vowel", alphabet);
-        break;
     case 'o':
-        printf("%c is a vowel", alphabet);
-        break;
     case 'u':
         printf("%c is a vowel", alphabet);
         break;
