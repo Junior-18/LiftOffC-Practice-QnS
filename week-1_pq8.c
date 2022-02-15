@@ -10,19 +10,24 @@ int main(){
     // float s1, s2, s3;
     // printf("Enter the length of the three sides of the triangle in cm :\n");
     // scanf("%f %f %f", &s1, &s2, &s3);
-    // switch(s1==s2 && s2==s3){
-    //     case 1:
-    //     printf("It is an equilateral triangle.");
-    //     break;
-    //     case 0:
-    //     switch(s1==s2 || s2==s3 || s1==s3){
-    //         case 1:
-    //         printf("It is an isoscales triangle.");
-    //         break;
-    //         case 0:
-    //         printf("It is an scalene triangle.");
-    //         break;
+    // if(s1>0 && s2>0 && s3>0){
+    //      switch(s1==s2 && s2==s3){
+    //          case 1:
+    //          printf("It is an equilateral triangle.");
+    //          break;
+    //          case 0:
+    //          switch(s1==s2 || s2==s3 || s1==s3){
+    //              case 1:
+    //              printf("It is an isoscales triangle.");
+    //              break;
+    //              case 0:
+    //              printf("It is an scalene triangle.");
+    //              break;
     //     }
+    //  }
+    // else{
+    //  printf("triangle is invalid);
+    //  }
     // }
 
 //Using Angles:--
