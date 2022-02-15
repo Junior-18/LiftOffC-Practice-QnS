@@ -23,10 +23,11 @@ int main(){
     //              case 0:
     //              printf("It is an scalene triangle.");
     //              break;
+    //              }
     //     }
     //  }
     // else{
-    //  printf("triangle is invalid);
+    //  printf("triangle is invalid");
     //  }
     // }
 
