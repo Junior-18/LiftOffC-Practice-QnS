@@ -8,7 +8,7 @@ int main(){
     printf("Enter the three angles (in degree)\nwith a space in between : ");
     scanf("%f %f %f", &a1, &a2, &a3);
     sum = a1+a2+a3;
-    if(sum == 180){
+    if(sum == 180 && a1>0 && a2>0 && a3>0){
         printf("The triangle is valid");
     }
     else{
